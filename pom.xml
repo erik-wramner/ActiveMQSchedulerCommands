@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>name.wramner.activemq.tools</groupId>
   <artifactId>ActiveMQSchedulerCommands</artifactId>
-  <version>1.0</version>
+  <version>1.1</version>
   <name>ActiveMQSchedulerCommands</name>
   <licenses>
     <license>
@@ -32,7 +32,7 @@
     <dependency>
       <groupId>org.apache.activemq</groupId>
       <artifactId>activemq-client</artifactId>
-      <version>5.15.1</version>
+      <version>5.15.6</version>
     </dependency>
     <dependency>
       <groupId>name.wramner.util</groupId>
